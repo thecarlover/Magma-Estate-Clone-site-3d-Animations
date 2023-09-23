@@ -55,6 +55,13 @@ The project will consist of the following phases, each with specific objectives:
 - I ahve used canvas approach for the animations moving with the help of render and framecount
 - for every page scrolling i have extensively used scrolltrigger cdn .
 
+### Implementations
+- go to index.html for the main file
+- go to style.css for the styling shee.
+- go to script.js for the animations secret😁😁
+- I have attached all the photos of canvas non foldered. frames and bridges.
+- I have given the file of fonts which i have used.
+
 ## Conclusion
 This educational clone website project offers a valuable opportunity to apply and refine web development skills while respecting copyright and intellectual property rights. The project should strictly adhere to its educational purpose and not be used for commercial purposes or public distribution.
 
